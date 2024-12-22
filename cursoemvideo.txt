@@ -1,0 +1,5 @@
+jose;35
+gustavo;41
+maria;85
+ricardo;3
+peach;52
